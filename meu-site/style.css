@@ -1,0 +1,79 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(144,144,248,1) 35%, rgba(0,212,255,1) 100%);
+    color: aliceblue;
+    margin-bottom: 40px;
+}
+
+#central {
+    
+    
+    margin: 0.625em;
+    
+}
+
+.navbar {
+    border: solid 1px;
+    border-radius: 4px;
+    margin: 5px;
+    color: aliceblue;
+    font-weight: 500;
+    background-color: rgba(144,144,248,1);
+   
+    
+
+}
+.navbar-brand{
+    color: aliceblue;
+    font-weight: 400;
+}
+
+.col {
+    margin: 14px 0px 7px 0px;
+    border-width: 0.125em;
+    text-align: center;
+    padding: 0.3125em;
+    
+}
+
+.nav-link{
+    border-style: solid;
+    border-width: 0.0625em;
+    margin: 0.25em;
+    border-radius: 0.25em;
+    width: 5.3125em;
+    text-align: center;
+    color: aliceblue;
+    
+    
+}
+.nav-link:hover {
+    background-color: rgb(144, 144, 248);
+}
+#central2{
+    /*border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    */
+    padding: 3em 9px 7em 9px;
+    margin: 7px 12px 7px 12px;
+    
+}
+.btn{
+    position: relative;
+    top: 45px;
+    background-color: aliceblue;
+    border: solid;
+    border-color: aliceblue;
+    font-weight: 500;
+}
+#footer {
+    color: black;
+}
+
+
+
+
+
+
