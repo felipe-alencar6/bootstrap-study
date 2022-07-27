@@ -1,9 +1,10 @@
+
+
 html, body{
     margin: 0;
     padding: 0;
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(144,144,248,1) 35%, rgba(0,212,255,1) 100%);
     color: aliceblue;
-    margin-bottom: 40px;
 }
 
 #central {
@@ -56,17 +57,23 @@ html, body{
     border-width: 1px;
     border-radius: 5px;
     */
-    padding: 3em 9px 7em 9px;
+    padding: 2em 9px 1em 9px;
     margin: 7px 12px 7px 12px;
     
 }
 .btn{
     position: relative;
-    top: 45px;
-    background-color: aliceblue;
+    color: aliceblue;
+    
     border: solid;
-    border-color: aliceblue;
     font-weight: 500;
+}
+
+.contact {
+    background-color: aliceblue;
+    margin: 20px 0px 0px 0px;
+    height: 150px;
+    color: black;
 }
 #footer {
     color: black;
